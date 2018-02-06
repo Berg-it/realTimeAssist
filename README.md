@@ -1,4 +1,4 @@
-# cabmanApp
+# real Time Assist
 
 - Pour sécuriser des url regarde le fichier WebSecurityConfig.java.
 - Pour chiffrer le mot de passe utilisateur on utilise le méthode "passwordEncoder" de spring boot. 
